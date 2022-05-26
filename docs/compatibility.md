@@ -134,7 +134,7 @@ Distrobox guests tested successfully with the following container images:
 | Gentoo Linux | rolling | You will have to [Build your own](distrobox_gentoo.md) to have a complete Gentoo docker image |
 
 Note however that if you use a non-toolbox preconfigured image (e.g.
-images pre-baked to work with <https://github.com/containers/toolbox),>
+images pre-baked to work with <https://github.com/containers/toolbox>),
 the **first** `distrobox-enter` you'll perform
 can take a while as it will download and install the missing dependencies.
 
